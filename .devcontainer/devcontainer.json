@@ -1,5 +1,5 @@
 {
-    "name": "data-recommendation-adoption",
+    "name": "devcontainer-dood",
     "build": {
       "dockerfile": "./Dockerfile"
     },
